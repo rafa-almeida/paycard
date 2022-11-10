@@ -1,4 +1,4 @@
-<h1 align="center"> Pay Card </h1>
+<h1 align="center"> Dev Bank </h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="pay card" src=".github/paycard.png" width="100%">
+  <img alt="Dev Bank" src=".github/Devbank.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -29,11 +29,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Pay Card é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
+O Dev Bank é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/ymd5vyIh0kaMq6Ua7raXRB/Explorer-Lab-%2301-(Copy)?node-id=1%3A2>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/ymd5vyIh0kaMq6Ua7raXRB/Explorer-Lab-%2301-(Copy)?node-id=14%3A51>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
